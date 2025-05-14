@@ -1,0 +1,11 @@
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\bin\Debug\net8.0\EmlakciLib.deps.json
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\bin\Debug\net8.0\EmlakciLib.dll
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\bin\Debug\net8.0\EmlakciLib.pdb
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\EmlakciLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\EmlakciLib.AssemblyInfoInputs.cache
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\EmlakciLib.AssemblyInfo.cs
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\EmlakciLib.csproj.CoreCompileInputs.cache
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\EmlakciLib.dll
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\refint\EmlakciLib.dll
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\EmlakciLib.pdb
+C:\Users\Emir Sağlam\source\repos\EmlakciLib\obj\Debug\net8.0\ref\EmlakciLib.dll
